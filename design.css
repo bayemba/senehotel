@@ -1,0 +1,36 @@
+img{
+	width: 90px;
+}
+nav .logo{
+	width: 100%;
+	height: 80px;
+	background-color: #010000;
+}
+ .logo {
+ 	width: 100%;
+	height: 80px;
+	background-color: #362f2d;
+	line-height: 66px;
+}
+p{
+	text-align: center;
+	text-align: justify;
+	margin-right: 70px;
+	margin-left: 70px;
+}
+h1{
+	font-size: 20px;
+	margin-left: 70px;
+}
+}
+.lion{
+	margin-left: 70px;
+}
+.fa-mailbox,.fa-tty,.fa-envelope-open,.fa-map-marker-alt{
+	color:#ffba02;
+	margin: auto;
+	margin-bottom: 20PX;
+}
+li{
+	margin-left: 70px;
+}

@@ -1,0 +1,99 @@
+.navbar-brand img{
+	max-height: 60px;
+}
+.nav-item{
+	float: right;
+}
+.imagefond{
+	width: 100%;
+	height: 600px;
+	background-image: url("image/Webp.net-gifmaker.gif") ;
+	background-color: #000000;
+	background-size: cover;
+}
+header{
+	background-image: url("image/ihg-home-hero-bpp-failsafe-21-9-v2.jfif");
+	min-height: 70vh ;
+	clip-path: polygon(0 0, 100% 0, 100% 100%, 0 91%);
+}
+h1{
+	color: #ffff;
+}
+header .row{
+	clip-path: polygon(0 0, 100% 0, 100% 100%, 0 91%);
+}
+.fa-bed{
+	color: #ffba02 ;
+}
+.fa-award{
+	color: #ffba02 ;
+}
+.fa-parking , .fa-avianex,.fa-comments,.fa-island-tropical,.fa-dumbbell{
+	color: #ffba02 ;
+}
+.text-justify{
+	text-align: justify;
+}
+@import url ('https://fonts.googleapis.com/css2? family = Red + Hat + Display & display = swap');
+footer{
+	flex-shrink: 0;
+	background-color: #362f2d;
+	width: 100%;
+}
+}
+}
+.inner-footer{
+	margin: 0;
+	padding: 0;
+	background-color: #010000;
+}
+.social-links{
+	display: flex;
+}
+.social-links ul{
+	display: flex;
+	width: 300px;
+	height: 30px;
+	margin: auto;
+	padding: 10px;
+}
+.social-items{
+	list-style: none;
+	list-style: none;
+}
+.social-items a{
+	padding: 10px 20px;
+	font-size: 30px;
+	color: #ffff;
+	list-style: none;
+	text-decoration: none;
+}
+.quick-link{
+	display: flex;
+	width: 560px;
+	height: 70px;
+	margin: auto;
+	padding: 10px;
+}
+.quick-link ul{
+	display: flex;
+}
+.quick-items{
+	list-style: none;
+}
+.quick-items a:hover{
+	color: #b9b9b9;
+}
+.quick-items a {
+	text-decoration: none;
+	padding: 0px 15px;
+	color: #ffff;
+	font-size: 18px;
+}
+.outer-fouter{
+	padding: 10px;
+	text-align: center;
+	color: white ;
+	background-color:#ffba02;
+	letter-spacing: 1PX;
+}
